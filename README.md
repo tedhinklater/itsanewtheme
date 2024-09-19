@@ -1,0 +1,2 @@
+# itsanewtheme
+Jellyfin Theme CSS
